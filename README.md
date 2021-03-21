@@ -1,19 +1,16 @@
 # ssac-toy-pj
 
 
-###진행기간:
+### 진행기
 2021.01
 
-###주제
+### 주제
 
 박스오피스 영화와 수상작 영화의 대한 네이버 리뷰와 별점 분석을 통한 인사이트 도출 (영화진흥원 , 왓챠 , 네이버 영화 )
-###내용
 
-![git hub](https://github.com/Daseul-Kim/ssac-toy-pj)
+### 내용
 
-<p align="center">
-	<img src="/c/Users/김다슬/Desktop/그림1.png" >
-</p>
+![이미지1](./c/Users/김다슬/Desktop/그림1.png)
 
 ### 사용언어 /기술/지식/skill
 jupyter notebook, git, python(numpy,pandas 등)

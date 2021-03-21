@@ -1,3 +1,4 @@
+
 # ssac-toy-pj
 
 
@@ -10,7 +11,9 @@
 
 ### 내용
 
-![이미지1](./c/Users/김다슬/Desktop/그림1.png)
+![그림1](https://user-images.githubusercontent.com/72251471/111891893-c8b4e780-8a39-11eb-9086-72b415ee47a3.png)
+![그림2](https://user-images.githubusercontent.com/72251471/111891898-d5394000-8a39-11eb-9b4a-2cf88cebfce1.png)
+
 
 ### 사용언어 /기술/지식/skill
 jupyter notebook, git, python(numpy,pandas 등)
